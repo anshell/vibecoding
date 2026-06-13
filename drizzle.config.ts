@@ -5,6 +5,6 @@ export default defineConfig({
   schema: "./src/db/schema.ts",
   out: "./drizzle",
   dbCredentials: {
-    url: process.env.DATABASE_URL || "mysql://root:password@127.0.0.1:3306/vibecoding",
+    url: process.env.DATABASE_URL || "mysql://kenzoo:nshell%4054321GorontaloID@127.0.0.1:3306/vibecoding",
   },
 });
